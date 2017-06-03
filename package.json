@@ -1,0 +1,19 @@
+{
+  "name": "dev-pkg",
+  "version": "0.0.1",
+  "description": "Gestor de paquetes para desarrolladores.",
+  "main": "index.js",
+  "bin": {
+    "dev-pkg": "index.js"
+  },
+  "keywords": [],
+  "author": "Luis Vilches <luis@luisvilches.cl> (http://www.luisvilches.cl)",
+  "repository": {
+    "github": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-cmd": "^2.0.0",
+    "request": "^2.81.0"
+  }
+}
